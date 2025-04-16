@@ -22,6 +22,20 @@ Dishcovery is a Django-based web application that helps users discover, save, an
 - ✨ **Admin Interface**  
   Manage recipes, users, and reviews with Django's built-in admin panel.
 
+## 📁 Project Structure
+
+```
+recipe-recommendation-system/
+├── core/                    # Core logic and utility functions
+├── dishcovery/              # Django app with views, models, urls, etc.
+├── media/
+│   └── recipes/             # Image assets for recipes
+├── db.sqlite3               # SQLite database file
+├── manage.py                # Django project management script
+├── requirements.txt         # Python dependencies
+├── README.md                # Project documentation
+```
+
 ## 🖼️ Sample Screenshots
 
 | Homepage | Login | Register |
