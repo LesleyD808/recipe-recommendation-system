@@ -1,4 +1,4 @@
-# Dishcovery: Personalized Recipe Recommendation System
+# 🥗Dishcovery: Personalized Recipe Recommendation System
 Dishcovery：个性化食谱推荐系统
 
 Dishcovery is a Django-based web application that helps users discover, save, and share personalized recipes.
