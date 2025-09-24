@@ -1,42 +1,29 @@
-# 🥗 Dishcovery: Personalized Recipe Recommendation System
+# Dishcovery: Personalized Recipe Recommendation System
+Dishcovery：个性化食谱推荐系统
 
-Dishcovery is a Django-based web application that helps users discover, save, and share personalized recipes. Originally developed as a university group project, this repository now reflects my individual contribution and enhancements, including new features, screenshots, and a redesigned README.
+Dishcovery is a Django-based web application that helps users discover, save, and share personalized recipes.
 
-## 🌟 Features
+## Features
 
-- 🍽️ **Personalized Meal Recommendations**  
+- **Personalized Meal Recommendations**  
   Suggests recipes based on user preferences and dietary needs.
 
-- 🔍 **Search & Filter Functionality**  
+- **Search & Filter Functionality**  
   Easily search for recipes by keyword, cuisine, ingredient, or category.
 
-- 📝 **User Accounts**  
+- **User Accounts**  
   Register, login, and manage your personal profile.
 
-- 💾 **Save & Manage Meals**  
+- **Save & Manage Meals**  
   Users can bookmark meals, rate them, and leave reviews.
 
-- 📸 **Image Support**  
+- **Image Support**  
   Visual representation of each dish enhances usability and experience.
 
-- ✨ **Admin Interface**  
+- **Admin Interface**  
   Manage recipes, users, and reviews with Django's built-in admin panel.
 
-## 📁 Project Structure
-
-```
-recipe-recommendation-system/
-├── core/                    # Core logic and utility functions
-├── dishcovery/              # Django app with views, models, urls, etc.
-├── media/
-│   └── recipes/             # Image assets for recipes
-├── db.sqlite3               # SQLite database file
-├── manage.py                # Django project management script
-├── requirements.txt         # Python dependencies
-├── README.md                # Project documentation
-```
-
-## 🖼️ Sample Screenshots
+## Sample Screenshots
 
 | Homepage | Login | Register |
 |---------|-------|----------|
@@ -54,14 +41,14 @@ recipe-recommendation-system/
 |------------|----------|----------|
 | ![](screenshots/PrintRecipe.png) | ![](screenshots/recipe1.png) | ![](screenshots/recipe2.png) |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Django (Python), SQLite3
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Media:** Static images of food stored locally in `media/recipes`
 - **Version Control:** Git + GitHub
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 recipe-recommendation-system/
@@ -76,7 +63,7 @@ recipe-recommendation-system/
 ```
 
 
-## 🕒 Timeline
+## Timeline
 
 | Period         | Task                                 |
 |----------------|--------------------------------------|
@@ -86,7 +73,7 @@ recipe-recommendation-system/
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - Integrate machine learning for personalized nutrition recommendations
 - Add real-time calorie targets and dynamic dietary suggestions
@@ -96,6 +83,7 @@ recipe-recommendation-system/
 
 ---
 
-## 👩‍💻 Author
+## Author
 Xinyu Dai
+
 Email: xinyudai2002.career@gmail.com
